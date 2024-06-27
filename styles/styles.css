@@ -50,6 +50,7 @@ aside{
 aside img{
     width: 200px;
     height: auto;
+    padding: auto;
 }
 
 aside h2{
