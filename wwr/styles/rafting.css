@@ -21,11 +21,11 @@
 h1, h2, h3, h4, h5, h6{
     font-family:var(--heading-font) ;
     color: var(--primary-color);
-    position: absolute;
+    
 }
 
 h1{
-    position: relative;
+    position: absolute;
 }
 
 article{
@@ -78,4 +78,5 @@ nav a:hover{
     display: block;
     width: 100%;
     height: auto;
+    position: relative;
 }
