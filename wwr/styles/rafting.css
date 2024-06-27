@@ -73,8 +73,10 @@ nav a:hover{
     background-color: var(--nav-hove-background-color);
 }
 
+
 .hero{
     display: block;
     width: 100%;
     height: auto;
+    position: absolute;
 }
