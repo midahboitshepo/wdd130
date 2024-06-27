@@ -17,16 +17,6 @@
 
 }
 
-.hero{
-    display: block;
-    width: 100%;
-    height: auto;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 
 h1, h2, h3, h4, h5, h6{
     font-family:var(--heading-font) ;
@@ -34,11 +24,11 @@ h1, h2, h3, h4, h5, h6{
     
 }
 
- h1{
+header h1{
     position: absolute;
 }
 
-article {
+article{
     position: absolute;
     background-color: lightskyblue;
     opacity: var(--accent2-color);
@@ -48,8 +38,7 @@ article {
 article img{
     width: 200px;
     height: auto; 
-    float: right; 
-   
+    float: right;   
 }
 
 header{
@@ -85,3 +74,12 @@ nav a:hover{
 }
 
 
+.hero{
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
