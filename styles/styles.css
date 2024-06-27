@@ -50,11 +50,11 @@ aside{
 aside img{
     width: 200px;
     height: auto;
-    padding: auto;
+    padding: 1rem;
 }
 
 aside h2{
-    position: absolute;
+    position: relative;
     top: auto;
     left: 150px;
     
