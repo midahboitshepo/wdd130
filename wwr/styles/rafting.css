@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6{
     position: absolute;
 }
 
-article{
+article div{
     position: absolute;
     background-color: lightskyblue;
     opacity: var(--accent2-color);
@@ -49,7 +49,7 @@ article img{
     width: 200px;
     height: auto; 
     float: right; 
-    position: absolute;  
+   
 }
 
 header{
