@@ -53,8 +53,9 @@ aside img{
 }
 
 aside h2{
-    position: relative;
-    
+    position: absolute;
+    top: auto;
+    left: auto;
 }
 
 footer{
