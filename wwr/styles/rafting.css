@@ -32,6 +32,7 @@ article{
     position: absolute;
     background-color: lightskyblue;
     opacity: var(--accent2-color);
+    float: var(--paragraph-font);
 }
 
 article img{
