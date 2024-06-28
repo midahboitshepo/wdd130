@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
-
 :root{
     --primary-color:#BEDCFE;
     --secondary-color:#85BDA6;
@@ -14,9 +13,7 @@
     --nav-link-color:#BEDCFE;
     --nav-hover-link-color:#2F4B26;
     --nav-hove-background-color:#85BDA6;
-
 }
-
 
 h1, h2, h3, h4, h5, h6{
     font-family:var(--heading-font) ;
@@ -31,14 +28,7 @@ h1, h2, h3, h4, h5, h6{
 article{
     position: absolute;
     background-color: lightskyblue;
-    opacity: var(--accent2-color);
- 
-}
-
-.article img{
-    width: 200px;
-    height: auto; 
-    float: right;   
+    opacity: var(--accent2-color); 
 }
 
 header{
@@ -61,7 +51,6 @@ nav a{
     color: var(--nav-link-color);
     text-decoration: none;
     padding: 1rem;
-
 }
 
 nav a:link,nav a:visited{
@@ -73,16 +62,13 @@ nav a:hover{
     background-color: var(--nav-hove-background-color);
 }
 
-
 .hero{
     display: block;
     width: 100%;
     height: auto;
     position: relative;
-    margin: 10px auto;
-	
+    margin: 10px auto;	
 }
-
 
 .cust{
     position: absolute;
