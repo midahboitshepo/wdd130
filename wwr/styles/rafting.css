@@ -35,7 +35,7 @@ article{
  
 }
 
-article img{
+.article img{
     width: 200px;
     height: auto; 
     float: right;   
