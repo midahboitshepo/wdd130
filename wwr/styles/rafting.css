@@ -78,5 +78,9 @@ nav a:hover{
     display: block;
     width: 100%;
     height: auto;
-    position: absolute;
+    position: relative;
+}
+
+.cust{
+    position:absolute
 }
