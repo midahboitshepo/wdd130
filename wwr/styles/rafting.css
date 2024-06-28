@@ -74,11 +74,11 @@ nav a:hover{
 
 .cust{
     position: absolute;
-	top: auto;
-	right: auto;
+	top: 25px;
+	right: 15px;
 	background: radial-gradient(#eee, #4567aa);
 	border: 1px solid #000;
-	padding: auto;
+	padding: 0.65rem;
 	box-shadow: 0 0 30px #111;
 	opacity: 0.9;
 	}
