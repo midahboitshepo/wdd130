@@ -74,7 +74,5 @@ nav a:hover{
     position: absolute;
 	top: 25px;
 	right: 15px;
-	padding: 0.65rem;
-	box-shadow: 0 0 30px #111;
 	opacity: 0.9;
 }
