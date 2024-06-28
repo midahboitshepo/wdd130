@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6{
     position: absolute;
 }
 
- .hero h1{
+.hero h1{
     position: absolute;
 }
 
@@ -68,6 +68,12 @@ nav a:hover{
     height: auto;
     position: relative;
     	
+}
+
+.hero img{
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .cust{
