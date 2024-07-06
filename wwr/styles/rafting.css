@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6{
 header{
     padding: 20px;
     background-color: var(--accent1-color);
+    display: grid;
 }
 
 p{
@@ -39,6 +40,8 @@ nav{
     background-color: var(--nav-background-color);
     font-size: 1.2rem;
     display: flex;
+    justify-content:flex-end;
+    align-items: center;
 }
 
 nav a{
@@ -58,7 +61,7 @@ nav a:hover{
 }
 
 .hero{
-    display: block;
+    display: flex;
     width: 100%;
     height: auto;
     position: relative;
@@ -82,3 +85,9 @@ nav a:hover{
 	box-shadow: 0 0 30px #111;
 	opacity: 0.9;
 	}
+
+.header-container{
+    display: flex;
+    justify-content: space-around;
+
+}
