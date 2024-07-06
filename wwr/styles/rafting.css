@@ -89,11 +89,26 @@ nav a:hover{
 .header-container{
     display: flex;
     justify-content: space-around;
+    align-items: self-start;
 
 }
 
 .figures{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: self-start;
+    background-color: var(--accent1-color);
+
+}
+
+.history{
+    display: grid;
+    grid-template-columns: 20% 80%
+
 }
 
