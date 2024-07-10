@@ -12,6 +12,6 @@
   }
   
 
-  input,select {
+  input,select,textarea {
    background:rgb(165, 240, 240);
 }
