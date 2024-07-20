@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 :root{
-    --primary-color:#BEDCFE;
-    --secondary-color:#85BDA6;
+    --primary-color:#072241;
+    --secondary-color:#a6c0b5;
     --accent1-color:#3E885B;
     --accent2-color: #2F4B26;
 
@@ -10,9 +10,9 @@
     --paragraph-font:helvetica;
 
     --nav-background-color:#3E885B;
-    --nav-link-color:#BEDCFE;
-    --nav-hover-link-color:#2F4B26;
-    --nav-hove-background-color:#85BDA6;
+    --nav-link-color:#01060c;
+    --nav-hover-link-color:#071801;
+    --nav-hove-background-color:#84d3b2;
 }
 
 h1, h2, h3, h4, h5, h6{
