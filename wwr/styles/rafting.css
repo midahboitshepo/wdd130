@@ -18,7 +18,7 @@
 h1, h2, h3, h4, h5, h6{
     font-family:var(--heading-font) ;
     color: var(--primary-color);
-    
+
 }
 
 .hero h1{
@@ -94,7 +94,7 @@ nav a:hover{
 
 .figures{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 30% 30% 30%;
 }
 
 .footer-container{
@@ -111,3 +111,18 @@ nav a:hover{
 
 }
 
+.flexbox-container {
+    display: flex;
+    justify-content: space-around;
+   
+  }
+
+  .flexbox-item2 {
+    background-color: #85BDA6;
+    border: 10px;
+    border-style:unset;
+    padding: 0.65rem;
+   
+  }
+
+ 
